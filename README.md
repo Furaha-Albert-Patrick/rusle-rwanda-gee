@@ -108,4 +108,4 @@ About 40% of the district sits within tolerable limits, while the small **severe
 
 MIT — free to use, adapt and share. Attribution appreciated.
 
-**Author:** Furaha Albert Patrick · Wanda Sphere Research · Rwanda
+**Author:** Jean De Dieu Niyogisubizo & Furaha Albert Patrick · Rwanda
