@@ -86,7 +86,8 @@ About 40% of the district sits within tolerable limits, while the small **severe
 
 ## Screenshots
 
-> Add your own screenshots here after running the script.
+<img width="1920" height="991" alt="image" src="https://github.com/user-attachments/assets/7d4ccc07-1ca2-4ac7-a64f-0a3b358b27ec" />
+
 
 | Soil loss class map | Factor layers | Class area chart |
 |---------------------|---------------|------------------|
