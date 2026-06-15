@@ -7,7 +7,7 @@ A ready-to-run **Revised Universal Soil Loss Equation (RUSLE)** implementation i
 `A = R × K × LS × C × P`  →  soil loss in tonnes per hectare per year (t ha⁻¹ yr⁻¹)
 
 ---
-
+Run it live at "https://code.earthengine.google.com/218ca7590cfd028af8e75a9d3e378e31"
 ## Why this version is scientifically sound
 
 Most quick RUSLE scripts badly **over-estimate** erosion on steep terrain — and Rwanda is "the land of a thousand hills." The usual culprit is the old Wischmeier & Smith slope-steepness factor, which was never validated above ~50% slope and explodes on hillsides. This implementation fixes that and uses defensible, peer-reviewed methods for every factor:
@@ -87,6 +87,9 @@ About 40% of the district sits within tolerable limits, while the small **severe
 ## Screenshots
 
 <img width="1920" height="991" alt="image" src="https://github.com/user-attachments/assets/7d4ccc07-1ca2-4ac7-a64f-0a3b358b27ec" />
+
+<img width="1920" height="991" alt="image" src="https://github.com/user-attachments/assets/6c6cfa3a-354e-42fa-9e45-aec5bcd8d436" />
+<img width="1920" height="991" alt="image" src="https://github.com/user-attachments/assets/4d839737-6521-4ec3-9db7-01bc65dd0585" />
 
 
 | Soil loss class map | Factor layers | Class area chart |
